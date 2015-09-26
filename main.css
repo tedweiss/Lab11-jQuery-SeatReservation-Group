@@ -1,0 +1,32 @@
+.row {
+	margin-right: 30px;
+	margin-left: 300px;
+}
+h1{
+	text-align: center;
+
+}
+
+.seat {
+	height: 100px;
+	width: 100px;
+	border-radius: 10px;
+	margin: 5px;
+	border: 2px solid black;
+	display: inline-block;
+	text-align: center;
+}
+
+.reservationForm {text-align: center;
+	display:none;
+}
+.seatSelected {
+	background-color: yellow
+}
+.seat p {
+	display: inline;
+}
+
+body{
+	background-color: #ADD8E6;
+}
